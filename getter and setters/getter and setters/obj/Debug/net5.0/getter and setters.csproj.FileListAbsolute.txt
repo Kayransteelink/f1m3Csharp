@@ -1,0 +1,16 @@
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\bin\Debug\net5.0\getter and setters.exe
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\bin\Debug\net5.0\getter and setters.deps.json
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\bin\Debug\net5.0\getter and setters.runtimeconfig.json
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\bin\Debug\net5.0\getter and setters.runtimeconfig.dev.json
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\bin\Debug\net5.0\getter and setters.dll
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\bin\Debug\net5.0\ref\getter and setters.dll
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\bin\Debug\net5.0\getter and setters.pdb
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\obj\Debug\net5.0\getter and setters.csproj.AssemblyReference.cache
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\obj\Debug\net5.0\getter and setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\obj\Debug\net5.0\getter and setters.AssemblyInfoInputs.cache
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\obj\Debug\net5.0\getter and setters.AssemblyInfo.cs
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\obj\Debug\net5.0\getter and setters.csproj.CoreCompileInputs.cache
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\obj\Debug\net5.0\getter and setters.dll
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\obj\Debug\net5.0\ref\getter and setters.dll
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\obj\Debug\net5.0\getter and setters.pdb
+C:\Users\kayra\OneDrive\Documenten\school\f1m3\C#\f1m3C#\getter and setters\getter and setters\obj\Debug\net5.0\getter and setters.genruntimeconfig.cache

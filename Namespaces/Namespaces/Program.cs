@@ -18,7 +18,7 @@ namespace HeyJij
     {
         public void sayHi()
         {
-            Console.WriteLine("Hey vreemdeling, ik ben Mike");
+            Console.WriteLine("Hey, ik ben kayran");
         }
     }
 }
